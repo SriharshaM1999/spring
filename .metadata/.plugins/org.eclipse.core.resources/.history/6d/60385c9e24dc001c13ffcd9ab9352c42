@@ -1,0 +1,9 @@
+package com.sriharsha.springlearning;
+
+public class BaseBallCoach {
+	
+	private void getDailyWorkOut() {
+		System.out.println("Dialy work out");
+	}
+
+}
