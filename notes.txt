@@ -1,0 +1,12 @@
+Some Important Keywords:
+================================================================
+
+ApplicationContext:
+applicationContext.xml
+ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml"):
+    . constructor injection
+    . setter injection
+    . property injection
+    . reading value from property file and injecting
+        .PostInit:
+        .PreDestroy:
